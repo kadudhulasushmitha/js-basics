@@ -6,4 +6,3 @@ function Hello(props) {
 }
 
 ReactDOM.render(<Hello />, document.getElementById('root'));
-
